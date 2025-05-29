@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "EB28121B-64DC-43B2-9F3D-0F47539D77D9"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0DFAD3B7-ABAE-4C89-9B8C-5A3D36EADB8B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVM-withDelegate/Screens/Auth/ViewModel/LoginViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "login(username:password:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2DAD9413-34AA-48D7-9455-7CA9EF65613C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProtoTestMVVM/Core/Network/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "request(model:endPoint:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2DAD9413-34AA-48D7-9455-7CA9EF65613C - 37c24d628bcbffbb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for ProtoTestMVVM.NetworkService.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(model: &#x3c4;_0_0.Type, endPoint: ProtoTestMVVM.EndPointType) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "ProtoTestMVVM.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaiminishah/Documents/Git%20Repo/ProtoTestMVVM/ProtoTestMVVM/ProtoTestMVVM/Core/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74">
+               </Location>
+               <Location
+                  uuid = "2DAD9413-34AA-48D7-9455-7CA9EF65613C - 37c24d628bcbffbb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for ProtoTestMVVM.NetworkService.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(model: &#x3c4;_0_0.Type, endPoint: ProtoTestMVVM.EndPointType) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "ProtoTestMVVM.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaiminishah/Documents/Git%20Repo/ProtoTestMVVM/ProtoTestMVVM/ProtoTestMVVM/Core/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
