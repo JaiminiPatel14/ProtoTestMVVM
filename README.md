@@ -29,7 +29,8 @@ A sample iOS application demonstrating MVVM architecture with unit testing.
 
 Run tests using `Cmd + U` in Xcode 
 
-## 👨‍💻 Author
+## Author
 
-Jaimini Patel
-- GitHub: [@JaiminiPatel14](https://github.com/JaiminiPatel14)
+**Jaimini Patel**  
+iOS Developer  
+[LinkedIn](https://www.linkedin.com/in/jaimini-patel-225615160/) • [GitHub](https://github.com/jaiminipatel)
