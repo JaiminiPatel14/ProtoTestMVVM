@@ -6,7 +6,7 @@ A sample iOS application demonstrating MVVM architecture with unit testing.
 - **MVVM**: ViewModels handle business logic and communicate with Views using closures
 - **MVVMNetwork Layer**: Async/await based network service with structured error handling
 - **Coordinators**: Manage navigation flow and decouple routing logic from views
-- **Closures**: Used for communication between ViewModels and ViewController
+- **Protocol-Delegate**: Used for communication between ViewModels and ViewController
 - **Unit Tests**: Comprehensive test coverage for core business logic and networking
 
 ## Features
